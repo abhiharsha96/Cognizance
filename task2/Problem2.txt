@@ -1,0 +1,13 @@
+Declare Integer n, i, a, b, c
+
+Input n
+Set a = 0
+Set b = 1
+Set i = 0
+While i < n
+    Set i = i + 1
+    Set c = a + b
+    Set a = b
+    Set b = c
+End While
+Display a

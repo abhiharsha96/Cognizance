@@ -1,0 +1,16 @@
+Declare Integer i, j, k
+
+Set k = 0
+Display "Enter a number to check whether it is divisible by 3 or not"
+Input j
+For i = 0 To j Step 3
+    If i == j Then
+        Set i = j + 2
+        Set k = 1
+    End If
+End For
+If k == 1 Then
+    Display "True"
+Else
+    Display "False"
+End If
