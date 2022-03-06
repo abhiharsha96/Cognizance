@@ -1,0 +1,16 @@
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+boJ9jbbUNNfktd78OOpsqOltutMc3MY1-lvl1
+CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9-lvl2
+UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK-lvl3
+pIwrPrtPN36QITSp3EQaw936yaFoFgAB-lvl4
+koReBOKuIDDepwhWk7jZC0RTdopnAYKh-lvl5
+DXjZPULLxYr17uwoI01bNLQbtFemEgo7-lvl6
+HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs-lvl7
+cvX2JJa4CFALtqS87jk27qwqGhBM9plV-lvl8
+UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR-lvl9
+truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk-lvl10
+IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR-lvl11
+5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu-lvl12
+8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL-lvl13
+4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e-lvl14
+BfMYroe26WYalil77FoDi9qh59eK5xNr-lvl15
